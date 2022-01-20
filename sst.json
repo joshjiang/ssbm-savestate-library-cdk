@@ -1,0 +1,5 @@
+{
+  "name": "ssbm-savestate-library-cdk",
+  "region": "us-east-1",
+  "main": "stacks/index.js"
+}
